@@ -1,0 +1,54 @@
+.w3-profil-img {
+    width: 25px;
+    padding: 2px;
+}
+
+.w3-logo{
+    padding: 17px;
+}
+
+.w3-main-manu{
+    padding: 17px;
+}
+
+.w3-orange,.w3-hover-orange:hover{
+    color:#fff!important;
+    background-color:#E67E22!important
+}
+
+.w3-text-orange,.w3-hover-text-orange:hover{
+    color:#E67E22!important
+}
+.w3-border-orange,.w3-hover-border-orange:hover{
+    border-color:#E67E22!important
+}
+
+.w3-hover-remove-greyscale:hover,
+.w3-hover-remove-grayscale:hover{
+    filter:grayscale(0%)
+}
+
+.w3-display-left{position:absolute;top:65%;left:0%;transform:translate(0%,-50%);-ms-transform:translate(-0%,-50%)}
+.w3-display-right{position:absolute;top:65%;right:0%;transform:translate(0%,-50%);-ms-transform:translate(0%,-50%)}
+
+.w3-client-logo {
+    width: 125px;
+    height: 125px;
+}
+
+.stick{
+    font-size: 75px;
+}
+
+.container{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}
+@media (min-width:768px){
+    .container{width:750px}
+}
+@media (min-width:992px){
+    .container{width:970px}
+}@media (min-width:1200px){
+    .container{width:1170px}
+}
+.container-fluid{
+    padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto
+}
